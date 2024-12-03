@@ -4,7 +4,7 @@
 
 > "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 
-I'm **Bushra Alhusaini**,aspiring full-stack web development student at BeCode.org with a strong enthusiasm for coding and a desire to develop problem-solving skills. I'm eager to find an internship or entry-level job that will help me apply what I've learned in a real-world setting and further develop my technical abilities.
+I'm **Bushra Alhusaini**,aspiring full-stack  junior web development student at BeCode.org with a strong enthusiasm for coding and a desire to develop problem-solving skills. I'm eager to find an internship or entry-level job that will help me apply what I've learned in a real-world setting and further develop my technical abilities.
 
 I'm currently building foundational skills with languages and technologies such as JavaScript, HTML, CSS, and PHP, and I'm beginning to explore frameworks like React and Node.js. Though I'm a beginner, I'm a quick learner and excited to continually grow my knowledge.
 
