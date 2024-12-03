@@ -32,7 +32,7 @@ I enjoy collaborating with others and believe that teamwork is essential to succ
   
 - **The best pong game** Arcade Pong Game is a classic arcade-style game where players control a paddle to hit a ball back and forth on a screen. The goal is to outmaneuver your opponent and score points by making the ball land on their side of the screen.[Live Demo](https://bushra-pong-game.netlify.app/)
   
-- **The Pokémon Memory Card** Game is a classic puzzle game where players try to find matching pairs of Pokémon cards. [Live Demo] (<https://b-pokemon-memory-game.netlify.app/).
+- **The Pokémon Memory Card** Game is a classic puzzle game where players try to find matching pairs of Pokémon cards. [Live Demo](https://b-pokemon-memory-game.netlify.app/). [GitHub Repo](https://github.com/Bushra-88/Pokemon-memory-game)
 
 - **Rock Paper Scissors Game** A simple implementation of the classic Rock-Paper-Scissors game.[Live Demo](https://b-rock-paper-scissor.netlify.app/).
 
