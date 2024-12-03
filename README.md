@@ -24,21 +24,25 @@ I enjoy collaborating with others and believe that teamwork is essential to succ
 * I maintain a positive attitude and approach challenges with enthusiasm.
 
 ## Projects
-- **SkyCast-forecast**: SkyCast is a simple and elegant weather application that allows users to check the current weather conditions for any city. Utilizing the SheCodes weather API, SkyCast provides real-time weather updates, including temperature, humidity, wind speed, and more. The application is designed to be user-friendly, with a clean and intuitive interface that makes it easy [Live Demo](https://skycast-forecast.netlify.app/)
+- **SkyCast-forecast**: SkyCast is a simple and elegant weather application that allows users to check the current weather conditions for any city. Utilizing the SheCodes weather API, SkyCast provides real-time weather updates, including temperature, humidity, wind speed, and more. The application is designed to be user-friendly, with a clean and intuitive interface that makes it easy [Live Demo](https://skycast-forecast.netlify.app/). [GitHub Repo](https://github.com/Bushra-88/SkyCast-forecast)
   
-- **Wanderlust Europe**: is a visually engaging and interactive website, showcasing a collection of popular European cities. Each city card includes important details such as landmarks and the best time to visit, aimed at helping potential travelers decide on their next adventure [Live Demo](https://wonderlust-eroupa.netlify.app/)
+- **Wanderlust Europe**: is a visually engaging and interactive website, showcasing a collection of popular European cities. Each city card includes important details such as landmarks and the best time to visit, aimed at helping potential travelers decide on their next adventure [Live Demo](https://wonderlust-eroupa.netlify.app/) [GitHub Repo](https://github.com/Bushra-88/Wanderlust-Europe)
   
-- **Climate Compass** Climate-Compass is a weather forecast application that provides the real temperature for 5 days and a city photo The application is designed to be user-friendly, with a clean and intuitive interface that makes it easy [Live Demo](https://b-climate-compass.netlify.app/)
+- **Climate Compass** Climate-Compass is a weather forecast application that provides the real temperature for 5 days and a city photo The application is designed to be user-friendly, with a clean and intuitive interface that makes it easy [Live Demo](https://b-climate-compass.netlify.app/). [GitHub Repo](https://github.com/Bushra-88/Climate-Compass)
   
-- **The best pong game** Arcade Pong Game is a classic arcade-style game where players control a paddle to hit a ball back and forth on a screen. The goal is to outmaneuver your opponent and score points by making the ball land on their side of the screen.[Live Demo](https://bushra-pong-game.netlify.app/)
+- **The best pong game** Arcade Pong Game is a classic arcade-style game where players control a paddle to hit a ball back and forth on a screen. The goal is to outmaneuver your opponent and score points by making the ball land on their side of the screen.[Live Demo](https://bushra-pong-game.netlify.app/).[GitHub Repo](https://github.com/Bushra-88/Arcade-pong-game)
   
 - **The Pokémon Memory Card** Game is a classic puzzle game where players try to find matching pairs of Pokémon cards. [Live Demo](https://b-pokemon-memory-game.netlify.app/). [GitHub Repo](https://github.com/Bushra-88/Pokemon-memory-game)
 
-- **Rock Paper Scissors Game** A simple implementation of the classic Rock-Paper-Scissors game.[Live Demo](https://b-rock-paper-scissor.netlify.app/).
+- **Rock Paper Scissors Game** A simple implementation of the classic Rock-Paper-Scissors game.[Live Demo](https://b-rock-paper-scissor.netlify.app/).[GitHub Repo](https://github.com/Bushra-88/rock-paper-scissors-game)
 
-- **Snake Game** A classic snake game built using HTML, CSS, and JavaScript. [Live Demo](https://snake-game-bushra.netlify.app/)
--  **Guessing Game** A simple number guessing game built with HTML,CSS,JS Vanilla [Live Demo](https://bushra-guessing-game.netlify.app/)
+- **Snake Game** A classic snake game built using HTML, CSS, and JavaScript. [Live Demo](https://snake-game-bushra.netlify.app/) [GitHub Repo](https://github.com/Bushra-88/Snake-game)
+- 
+-  **Guessing Game** A simple number guessing game built with HTML,CSS,JS Vanilla [Live Demo](https://bushra-guessing-game.netlify.app/) [GitHub Repo](https://github.com/Bushra-88/Guessing-Game)
+-  
 -  **Hotel booking serveice** To book entire vacations through one simple to use website, including flight reservations and more. [Live Demo](https://hotel-booking-service.netlify.app/)
+-  
+-  **Victorian Elegance** a web application that beautifully showcases Victorian-era art, delicate tea sets, and elegant accessories. Built with React.[Live Demo](https://b-victorian-elegance.netlify.app/) [GitHub Repo](https://github.com/Bushra-88/Victorian-Elegance)
 
 
 ## Hobbies
