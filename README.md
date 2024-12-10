@@ -56,6 +56,8 @@ I enjoy collaborating with others and believe that teamwork is essential to succ
 
 >Novel: "It Ends with Us" by Colleen Hoover
 
+* Photography 📸: Capturing the beauty of nature and cityscapes with my camera. Every interesting scene tells a story through my lens.
+
 * Engaging in fitness activities to maintain a healthy lifestyle.
 
 * Experimenting with new recipes in the kitchen and cooking delicious meals.
