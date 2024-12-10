@@ -47,18 +47,18 @@ I enjoy collaborating with others and believe that teamwork is essential to succ
 
 ## Hobbies
 
-* Writing poems.
+* Writing poems ✍🏻.
 
-* Taking walks in the woods to connect with nature and relax.
+* Taking walks in the woods to connect with nature and relax 🌳🚶🏻‍♀️‍➡️🌳.
 
-* Reading good books, including:
+* Reading good books 📖📔, including:
 >Psychological Book: "Thinking, Fast and Slow" by Daniel Kahneman.
 
 >Novel: "It Ends with Us" by Colleen Hoover
 
 * Photography 📸: Capturing the beauty of nature and cityscapes with my camera. Every interesting scene tells a story through my lens.
 
-* Engaging in fitness activities to maintain a healthy lifestyle.
+* Engaging in fitness 🏋🏻‍♀️activities to maintain a healthy lifestyle.
 
 * Experimenting with new recipes in the kitchen and cooking delicious meals.
 
